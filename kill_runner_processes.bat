@@ -1,5 +1,5 @@
 
-  taskkill /IM firefox.exe
+  taskkill /IM firefox.exe.exe
 
   taskkill /IM iisexpress.exe
 
